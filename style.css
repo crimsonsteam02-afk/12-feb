@@ -6,7 +6,7 @@ button {
     padding: 10px 15px;
     cursor: pointer;
     border: 1px solid #AC9EFF;
-    background-color: #AC9EFF;
+    background-color: #70200c;
     color: white;
     border-radius: 4px; 
 }
@@ -24,10 +24,10 @@ button:hover {
 }
 .post h2 { 
     margin-top: 0; 
-    color: #333;
+    color: #0c0b0b;
     font-size: 1.3em; 
 }
 .post p {
-    color: #666;
+    color: #111010;
     line-height: 1.6;
 }
